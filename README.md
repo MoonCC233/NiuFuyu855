@@ -8,11 +8,9 @@
 
 <h1 align="center">我的介绍</h1>
 
-### Hi there, I'm [NiuFuyu855](https://mooncc.cn/). 👋
+### Hi there, I'm [MoonCC](https://mooncc.cn/). 👋
 
-- 小号 **[@NiuFuyuCN](https://github.com/NiuFuyuCN)**
-
-- I'm a member of MPT (*Minecraft* Programming Team) and 17-year-old Chinese student. Just so so...
+- I'm a member of MPT (*Minecraft* Programming Team) and 18-year-old Chinese student. Just so so...
 
 - I’m interested in programming. 👀
 
